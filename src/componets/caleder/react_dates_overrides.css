@@ -1,0 +1,16 @@
+
+.CalendarDay__hovered_span:hover,
+.CalendarDay__hovered_span {
+  background: brown;
+}
+
+.CalendarDay__selected {
+  background: dark-red;
+  color: white;
+}
+
+
+.CalendarDay__selected:hover {
+  background: orange;
+  color: white;
+}

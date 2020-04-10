@@ -1,0 +1,985 @@
+{
+    "Nairobi":[
+        {
+            "id":1,
+             "name":"Hiton Hotel",
+             "price":2000,
+             "image": "1.jpeg",
+             "Amenities":[
+                {
+                   "id":1,
+                   "Amenitie":"free wifi",
+                   "price":200
+                },
+                {
+                  "id":2,
+                  "Amenitie":"free Breakfast"
+               },
+               {
+                  "id":3,
+                  "Amenitie": "free transport"
+               }  
+             ],
+             "Lnaguages":[
+                {
+                   "id":1,
+                   "language":"Freanch"
+                },
+                {
+                  "id":1,
+                  "language":  "italian"
+               },
+               {
+                  "id":1,
+                  "language":"Kiswahili"
+               },
+               {
+                  "id":1,
+                  "language":"English"
+               }
+             ],
+
+             "Rometype":[
+                  {
+                     "id":1,
+                     "name":"SingleRoom",
+                     "price":2000
+                  },
+                  {
+                     "id":1,
+                     "name":"Double Room",
+                     "price":4000
+                  }                           
+             ]
+        },
+
+        {
+            "id":2,
+             "name":"Fairview",
+             "price":4000,
+             "image": "2.jpg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+
+        {
+            "id":3,
+             "name":"Azure Hotel Nairobi westlands",
+             "price":5000,
+             "image": "3.jpeg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+
+        {
+            "id":5,
+             "name":"Sarova stanley",
+             "price":4500,
+             "image": "5.jpeg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+
+        {
+            "id":6,
+             "name":"The clarion Hotel",
+             "price":5000,
+             "image": "6.jpeg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+
+        {
+            "id":7,
+             "name":"Nairobi upper Hill  Hotel",
+             "price":6000,
+             "image": "7.jpeg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+
+        {
+            "id":10,
+             "name":"The monarch Hotel",
+             "price":4000,
+             "image": "10.jpeg",
+             "Amenities":[
+                "free parking",
+                 "free wifi",
+                 "free Breakfast",
+                 "free transport"
+             ],
+             "Lnaguages":[
+                "Freanch",
+                "italian",
+                "English",
+                "Kiswahili"
+             ],
+
+             "Rometype":[
+                "Single Room",
+                "Double Room"
+                
+             ]
+        },
+
+
+        {
+            "id":11,
+             "name":"Hamingways Nairobi",
+             "price":5000,
+             "image": "11.jpeg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        }
+         
+    ],
+
+    "Mombasa":[
+        {
+            "id":1,
+             "name":"Hotel Englishpoint Mombasa",
+             "price":5000,
+             "image": "1.jpg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+
+        {
+            "id":2,
+             "name":"Regency park Hotel",
+             "price":1000,
+             "image": "2.jpg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+             
+             
+        },
+
+
+        {
+            "id":3,
+             "name":"mali Guest House",
+             "price":6000,
+             "image": "3.jpeg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+        {
+            "id":4,
+             "name":"The pontoon nyali",
+             "price":8000,
+             "image": "4.jpeg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+
+        {
+            "id":5,
+             "name":"Ziwa Beach Resort ",
+             "price":6500,
+             "image": "5.jpg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+        {
+            "id":6,
+             "name":"Tamrid ",
+             "price":5000,
+             "image": "6.jpg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+
+        {
+            "id":7,
+             "name":"Mombasa Continetal Resualt",
+             "price":5000,
+             "image": "7.jpeg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+
+        {
+            "id":8,
+             "name":"Mombasa Beach  Hotel",
+             "price":12000,
+             "image": "8.jpeg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+{
+            "id":9,
+             "name":"Sunset Hotel",
+             "price":12000,
+             "image": "9.jpg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+{
+            "id":10,
+             "name":"Tahia Hotel",
+             "price":12000,
+             "image": "10.jpeg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        },
+
+{
+            "id":11,
+             "name":"Mombasa Beach  Hotel",
+             "price":12000,
+             "image": "11.jpg",
+             "Amenities":[
+               {
+                  "id":1,
+                  "Amenitie":"free wifi"
+               },
+               {
+                 "id":2,
+                 "Amenitie":"free Breakfast"
+              },
+              {
+                 "id":3,
+                 "Amenitie": "free transport"
+              }  
+            ],
+            "Lnaguages":[
+               {
+                  "id":1,
+                  "language":"Freanch"
+               },
+               {
+                 "id":1,
+                 "language":  "italian"
+              },
+              {
+                 "id":1,
+                 "language":"Kiswahili"
+              },
+              {
+                 "id":1,
+                 "language":"English"
+              }
+            ],
+
+            "Rometype":[
+                 {
+                    "id":1,
+                    "name":"SingleRoom",
+                    "price":2000
+                 },
+                 {
+                    "id":1,
+                    "name":"Double Room",
+                    "price":4000
+                 }                           
+            ]
+        }
+
+
+    ]
+
+
+}
